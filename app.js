@@ -23,6 +23,12 @@ const app = {
     isRepeat: false,
     songs: [
         {
+            name: 'Nhạc của DaLab',
+            singer: 'DALAB',
+            path: './assets/music/music12.mp3',
+            image: './assets/img/anh12.jpg'
+        },
+        {
             name: 'Một ngày không mưa',
             singer: 'Ngọt Band',
             path: './assets/music/music1.mp3',
@@ -81,6 +87,12 @@ const app = {
             singer: 'Thành Đồng',
             path: './assets/music/music10.mp3',
             image: './assets/img/anh10.jpg'
+        },
+        {
+            name: 'Tourist',
+            singer: 'Bwine ft  V#',
+            path: './assets/music/music11.mp3',
+            image: './assets/img/anh11.jpg'
         },
     ],
     //load ra danh sách các bài hát
